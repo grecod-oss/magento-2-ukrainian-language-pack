@@ -1,0 +1,24 @@
+{
+  "name": "grecod-oss/magento-2-ukrainian-language-pack",
+  "description": "Ukrainian language package for Magento 2",
+  "homepage": "http://grecod.com",
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Grecod team",
+      "email": "info@grecod.com",
+      "homepage": "http://grecod.com",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
