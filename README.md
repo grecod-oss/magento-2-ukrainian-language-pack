@@ -2,7 +2,7 @@
 
 ## Magento 2 Ukrainian Language Pack
 
-Full **Magento 2 Ukrainian Language Pack** ulcudeds maximum of translations, including error messages, even popular third party modules. You have to download a zip translation file via the link and install it on the store. Then, you should choose the right store locale (Ukrainian (Ukraine)) from the backend. Please get the guides below for the perfect convertion.
+Full **Magento 2 Ukrainian Language Pack** inlcudes maximum of translations, with error messages, even popular third party modules. You have to download a zip translation file via the link and install it on the store. Then, you should choose the right store locale (Ukrainian (Ukraine)) from the backend. Please get the guides below for the perfect convertion.
 
 ## How to Install Ukrainian Language Pack
 
@@ -96,9 +96,9 @@ Contribute to this language at :
 - [On Github](https://github.com/grecod-oss/): It's faster, our team will approve it after you send pull request.
 
 
-## 5. Supported Magento versions
+## Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
+It supports all Magento 2 versions include Magento 2 Open-Source (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
 - Magento v2.0.x
 - Magento v2.1.x

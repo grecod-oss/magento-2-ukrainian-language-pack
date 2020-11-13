@@ -5,6 +5,7 @@
   "type": "magento2-language",
   "minimum-stability": "dev",
   "prefer-stable": true,
+  "version": "0.0.2",
   "license": [
     "MIT"
   ],
